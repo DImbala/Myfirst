@@ -11,16 +11,18 @@ DAY ONE
  
 # DAY TWO
 **Introduction to command line**
-1.Inroduction to shell
-2. cd - change directory
-3. pwd  -print work directory -to know where you are 
-4. mkdir - create a file
-5. nano -create a document
-6. cd.. - moving back one step
-7.  cd../.. -moving two steps back
-8.  ls -listing the current of the document
-9.  mv -moving documents from one folder
-10.  rm - removing a document
+
+1.  Inroduction to shell
+2.  cd - change directory
+3.  pwd  -print work directory -to know where you are 
+4.  ls-lh
+5.  mkdir - create a file
+6.  nano -create a document
+7.  cd.. - moving back one step
+8.  cd../.. -moving two steps back
+9.   ls -listing the current of the document
+10.   mv -moving documents from one folder
+11.   rm - removing a document
    
  
 # DAY THREE
